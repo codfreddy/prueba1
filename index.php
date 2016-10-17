@@ -4,8 +4,8 @@
 	<title>Git and gtihub</title>
 </head>
 <body>
-<p>Primer cambio</p>
-<p>segundo cambio</p>
+<p>Primer cambio(N)</p>
+<p>segundo cambio(N)</p>
 <p>segundo/2 cambio</p>
 <p>tercer cambio</p>
 <p>cuarto cambio</p>
