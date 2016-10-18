@@ -8,6 +8,7 @@
 <p>segundo cambio(N)</p>
 <p>segundo/2 cambio</p>
 <p>tercer cambio</p>
+<p>tercero/2</p>
 <p>cuarto cambio</p>
 <p>quinto cambio</p>
 <h3>nueva</h3>
