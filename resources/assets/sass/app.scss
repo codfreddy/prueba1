@@ -1,0 +1,13 @@
+
+// Fonts
+//@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);
+
+// Variables
+//@import "variables";
+
+// Bootstrap
+@import "node_modules/materialize-css/sass/materialize.scss";
+
+.error-box.card-panel{
+	padding: 1px 20px;
+}
